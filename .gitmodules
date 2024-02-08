@@ -1,0 +1,6 @@
+[submodule "src/themes/strawberry-theme"]
+	path = src/themes/strawberry-theme
+	url = https://github.com/tonybloc/strawberry-theme
+[submodule "src/plugins/strawberry-plugin"]
+	path = src/plugins/strawberry-module
+	url = https://github.com/tonybloc/strawberry-module
